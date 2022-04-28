@@ -10,11 +10,12 @@ In this study we attempt to explore a complex system of co-sponsorship relations
 
 ## Table of contents
 
-[Headers](#headers)  
-[Emphasis](#emphasis)  
+1. [Introduction](#introduction)  
+[Literature review](#literature review)  
 ...snip...    
 <a name="headers"/>
-## Headers
+
+## Introduction
 
 
 
