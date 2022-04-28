@@ -1,2 +1,3 @@
 # Legislative-Co-sponsorship-Networks
-Here we exploring various bill co-sponsorship ties between deputies of the Russian State Duma using social network analysis (SNA).
+## CO-SPONSORSHIP NETWORKS IN THE LEGISLATIVE PROCESS: ANALYSIS OF THE RUSSIAN STATE DUMA
+!(Image/1577627873_0_156_1500_1000_1920x0_80_0_0_802dd86741cc225577d6bf66e78713db.jpg)
