@@ -2,7 +2,7 @@
 
 # CO-SPONSORSHIP NETWORKS IN THE LEGISLATIVE PROCESS: ANALYSIS OF THE RUSSIAN STATE DUMA
 
-![hse](https://img.shields.io/badge/HSE-University-blue)
+[![hse](https://img.shields.io/badge/HSE-University-blue)](https://spb.hse.ru/en/)
 
 ### Project Description:
 
