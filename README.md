@@ -24,6 +24,15 @@ In this study we focused on examining networks of legislative co-sponsorship in 
 
 Our aspiration in studying legislative co-sponsorship networks is motivated by the following reasons. First, the parliamentary ties of the State Duma are a complex and heterogeneous system of relationships between multiple interest groups and individuals. Second, the current composition of the Duma has been noticeably renewed. According to State Duma Speaker Vyacheslav Volodin, 48.5% of 450 elected deputies are newcomers. Consequently, having no relevant background in federal lawmaking, new deputies may collaborate with more experienced colleagues. Third, co-authorship can signal underlying agreements even between members of competing factions. Network analysis, therefore, can be applied for observing various social ties that deputies create between each other through the co-sponsorship of bills and laws.
 
+More specifically, the purpose of the study is to answer three main research questions:
+1)	What is the overall degree of legislative co-sponsorship in the current convocation of the State Duma?
+2)	What parliamentary coalitions exist and on what basis are they built?
+3)	Is there a correlation between the deputy’s credibility and co-sponsorship?
+To cover these research questions, the study utilizes qualitative and quantitative methods. We will use social network analysis (SNA) as a major approach of inspecting legislative co-sponsorship relations. We employ Python programming language to perform a wide range of data manipulations and Gephi software as a graph visualization tool. All the necessary data was collected directly from the State Duma official website as .csv dataset and then preprocessed with Python.
+
+The study is divided into four parts. Part 1 introduces the problem of legislative co-sponsorship, provides the author’s motivation and states research questions. Part 2 represents the literature review, which is based on discussing of previous studies on the topic and identifying of gaps. Part 3 describes the data collection process and research methodology. Part 4 contains the results obtained. Part 5 draws the final conclusion, suggests further research application, assumes study’s value for practical purposes.
+
+
 ## Literature review
 
 ### Specific of legislative co-sponsorship
