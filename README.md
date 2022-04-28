@@ -38,6 +38,8 @@ More specifically, the purpose of the study is to answer three main research que
 
 To cover these research questions, the study utilizes qualitative and quantitative methods. We will use social network analysis (SNA) as a major approach of inspecting legislative co-sponsorship relations. We employ Python programming language to perform a wide range of data manipulations and Gephi software as a graph visualization tool. All the necessary data was collected directly from the State Duma official website as .csv dataset and then preprocessed with Python.
 
+### Structure
+
 The study is divided into four parts. 
   [Part 1](#introduction) introduces the problem of legislative co-sponsorship, provides the author’s motivation and states research questions. 
   [Part 2](#literature-review) represents the literature review, which is based on discussing of previous studies on the topic and identifying of gaps. 
