@@ -46,7 +46,7 @@ Considering the network of the most cited scholars on the topic from Scopus we c
 
 ![citations](Image/vos.jpg)
 
-*Figure 1. Most popular authors in the legislative co-sponsorhip networks area.
+*Figure 1. Most popular authors in the legislative co-sponsorhip networks area.*
 
 ### Specific of legislative co-sponsorship
 
