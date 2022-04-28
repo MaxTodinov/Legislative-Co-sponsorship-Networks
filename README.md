@@ -12,8 +12,9 @@ In this study we attempt to explore a complex system of co-sponsorship relations
 
 1. [Introduction](#introduction)  
 2. [Literature review](#literature-review)
-3. [Data](#data)
-4. [Methodology](#methodology)    
+3. [Data and methodology](#data-and-methodology)
+4. [Results](#results)
+5. [Conclusion](#conclusion)    
 <a name="headers"/>
 
 ## Introduction
@@ -30,7 +31,12 @@ More specifically, the purpose of the study is to answer three main research que
 - Is there a correlation between the deputy’s credibility and co-sponsorship?
 To cover these research questions, the study utilizes qualitative and quantitative methods. We will use social network analysis (SNA) as a major approach of inspecting legislative co-sponsorship relations. We employ Python programming language to perform a wide range of data manipulations and Gephi software as a graph visualization tool. All the necessary data was collected directly from the State Duma official website as .csv dataset and then preprocessed with Python.
 
-The study is divided into four parts. Part 1 introduces the problem of legislative co-sponsorship, provides the author’s motivation and states research questions. Part 2 represents the literature review, which is based on discussing of previous studies on the topic and identifying of gaps. Part 3 describes the data collection process and research methodology. Part 4 contains the results obtained. Part 5 draws the final conclusion, suggests further research application, assumes study’s value for practical purposes.
+The study is divided into four parts. 
+  [Part 1](#introduction) introduces the problem of legislative co-sponsorship, provides the author’s motivation and states research questions. 
+  [Part 2](#literature-review) represents the literature review, which is based on discussing of previous studies on the topic and identifying of gaps. 
+  [Part 3](#data-and-methodology) describes the data collection process and research methodology. 
+  [Part 4](#results) contains the results obtained. 
+  [Part 5](#conclusion) draws the final conclusion, suggests further research application, assumes study’s value for practical purposes.
 
 
 ## Literature review
@@ -39,6 +45,8 @@ The study is divided into four parts. Part 1 introduces the problem of legislati
 
 Exploring of legislative co-sponsorship networks is a well-developed area of research, especially in the United States. One of the pioneers, James Fowler, made a significant contribution by conducting extensive studies of the legislation co-sponsorship in the U.S. Congress. In his 2006 study, he determined that bills supported by a single co-sponsor passed 10% of the time, while bills co-sponsored by an average of 48.5% of the chamber passed 30% of the time. Obviously, the probability of passing a bill is higher when it is supported by a greater number of deputies. The reason for this trend, according to Koger (2003), may be the reward factor, under the incentive of which deputies often support bills that popular or supported by powerful groups. 
 
-## Data
+## Data and methodology
 
-## Methodology
+## Results
+
+## Conclusion
