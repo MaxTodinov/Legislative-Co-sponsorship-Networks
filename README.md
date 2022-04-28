@@ -1,25 +1,8 @@
-- [Paste Your Document In Here](#paste-your-document-in-here)
-  * [And a table of contents](#and-a-table-of-contents)
-  * [On the right](#on-the-right)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
-
-
-##### Table of Contents  
-[Headers](#headers)  
-[Emphasis](#emphasis)  
-...snip...    
-<a name="headers"/>
-## Headers
+![gosduma](Image/1577627873_0_156_1500_1000_1920x0_80_0_0_802dd86741cc225577d6bf66e78713db.jpg)
 
 # SNA Course Project (Denis Pavlenko, Maksim Todinov)
 
 ## CO-SPONSORSHIP NETWORKS IN THE LEGISLATIVE PROCESS: ANALYSIS OF THE RUSSIAN STATE DUMA
-
-![gosduma](Image/1577627873_0_156_1500_1000_1920x0_80_0_0_802dd86741cc225577d6bf66e78713db.jpg)
-
-*Source: https://ria.ru/20201118/morozov-1585214970.html
 
 ### Project Description:
 
