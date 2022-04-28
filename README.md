@@ -4,7 +4,18 @@
 
 [![hse](https://img.shields.io/badge/HSE-University-blue)](https://spb.hse.ru/en/)
 
-## Project Description:
+## Overview
+
+In this study we attempt to explore a complex system of co-sponsorship relationships between deputies of the State Duma of Russian Federation applying social network analysis (SNA).
+
+## Table of contents
+
+[Headers](#headers)  
+[Emphasis](#emphasis)  
+...snip...    
+<a name="headers"/>
+## Headers
+
 
 
 Nowadays, political processes are of growing interest as a research area to network scholars. Prior studies validate that the social ties between various political actors (eg., individual deputies or parties) affect significantly on both policy initiatives and legislation (Zuckerman, 2005). Frequently, members of different political parties can cooperate on the basis of close interests and form network of coalitions that result, for instance, in legislative co-sponsorship. This thesis can be supported by the data of Wilson and Young (1997), emphasizing that 58.2% of bills introduced in the U.S. Congress (bicameral parliament) by lawmakers were co-sponsored. Thus, for well-established legislative institutions, co-authorship is a normal practice. However, what is the situation in relatively young legislatures?
