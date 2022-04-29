@@ -62,7 +62,7 @@ Considering the network of the most cited scholars on the topic from Scopus we c
 
 ![citations](Image/vos.jpg)
 
-*Buit with VOSViewe.*
+*Built with [VOSViewer](https://www.vosviewer.com/).*
 
 ### Specific of legislative co-sponsorship
 
