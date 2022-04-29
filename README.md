@@ -31,9 +31,13 @@ In this study we focused on examining networks of legislative co-sponsorship in 
 
 *Source: http://duma.gov.ru/news/52271/*
 
+-----------------
+
 ### Research Motivation
 
 Our aspiration in studying legislative co-sponsorship networks is motivated by the following reasons. First, the parliamentary ties of the State Duma are a complex and heterogeneous system of relationships between multiple interest groups and individuals. Second, the current composition of the Duma has been noticeably renewed. According to State Duma Speaker Vyacheslav Volodin, 48.5% of 450 elected deputies are newcomers. Consequently, having no relevant background in federal lawmaking, new legislators may collaborate with more experienced colleagues. Third, co-authorship can signal underlying agreements even between members of competing factions. Network analysis, therefore, can be applied for observing various social ties that deputies create between each other through the co-sponsorship of bills and laws.
+
+-----------------
 
 ### Research questions
 
@@ -43,6 +47,8 @@ More specifically, the purpose of the study is to answer three main research que
 - Is there a correlation between the deputy’s credibility and co-sponsorship?
 
 To cover these research questions, the study utilizes qualitative and quantitative methods. We will use social network analysis (SNA) as a major approach of inspecting legislative co-sponsorship relations. We employ Python programming language to perform a wide range of data manipulations and Gephi software as a graph visualization tool. All the necessary data was collected directly from the State Duma official website as .csv dataset and then preprocessed with Python.
+
+-----------------
 
 ### Structure
 
@@ -63,6 +69,8 @@ Considering the network of the most cited scholars on the topic from Scopus we c
 ![citations](Image/vos.jpg)
 
 *Built with [VOSViewer](https://www.vosviewer.com/).*
+
+-----------------
 
 ### Specific of legislative co-sponsorship
 
