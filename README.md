@@ -62,6 +62,8 @@ Considering the network of the most cited scholars on the topic from Scopus we c
 
 ![citations](Image/vos.jpg)
 
+*Buit with VOSViewe.*
+
 ### Specific of legislative co-sponsorship
 
 Exploring of legislative co-sponsorship networks is a well-developed area of research, especially in the United States. One of the pioneers, James Fowler, made a significant contribution by conducting extensive studies of the legislation co-sponsorship in the U.S. Congress. In his 2006 study, he determined that bills supported by a single co-sponsor passed 10% of the time, while bills co-sponsored by an average of 48.5% of the chamber passed 30% of the time. Obviously, the probability of passing a bill is higher when it is supported by a greater number of deputies. The reason for this trend, according to Koger (2003), may be the reward factor, under the incentive of which deputies often support bills that popular or supported by powerful groups. 
