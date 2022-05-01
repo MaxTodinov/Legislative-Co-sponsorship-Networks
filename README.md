@@ -31,13 +31,9 @@ In this study we focused on examining networks of legislative co-sponsorship in 
 
 *Source: http://duma.gov.ru/news/52271/*
 
------------------
-
 ### Research Motivation
 
 Our aspiration in studying legislative co-sponsorship networks is motivated by the following reasons. First, the parliamentary ties of the State Duma are a complex and heterogeneous system of relationships between multiple interest groups and individuals. Second, the current composition of the Duma has been noticeably renewed. According to State Duma Speaker Vyacheslav Volodin, 48.5% of 450 elected deputies are newcomers. Consequently, having no relevant background in federal lawmaking, new legislators may collaborate with more experienced colleagues. Third, co-authorship can signal underlying agreements even between members of competing factions. Network analysis, therefore, can be applied for observing various social ties that deputies create between each other through the co-sponsorship of bills and laws.
-
------------------
 
 ### Research questions
 
@@ -47,8 +43,6 @@ More specifically, the purpose of the study is to answer three main research que
 - Is there a correlation between the deputy’s credibility and co-sponsorship?
 
 To cover these research questions, the study utilizes qualitative and quantitative methods. We will use social network analysis (SNA) as a major approach of inspecting legislative co-sponsorship relations. We employ Python programming language to perform a wide range of data manipulations and Gephi software as a graph visualization tool. All the necessary data was collected directly from the State Duma official website as .csv dataset and then preprocessed with Python.
-
------------------
 
 ### Structure
 
@@ -70,11 +64,13 @@ Considering the network of the most cited scholars on the topic from Scopus we c
 
 *Built with [VOSViewer](https://www.vosviewer.com/).*
 
------------------
-
 ### Specific of legislative co-sponsorship
 
-Exploring of legislative co-sponsorship networks is a well-developed area of research, especially in the United States. One of the pioneers, James Fowler, made a significant contribution by conducting extensive studies of the legislation co-sponsorship in the U.S. Congress. In his 2006 study, he determined that bills supported by a single co-sponsor passed 10% of the time, while bills co-sponsored by an average of 48.5% of the chamber passed 30% of the time. Obviously, the probability of passing a bill is higher when it is supported by a greater number of deputies. The reason for this trend, according to Koger (2003), may be the reward factor, under the incentive of which deputies often support bills that popular or supported by powerful groups. 
+Exploring of legislative co-sponsorship networks is a well-developed area of research, especially in the United States. One of the pioneers, James Fowler, made a significant contribution by conducting extensive studies of the legislation co-sponsorship in the U.S. Congress. In his 2006 study, he determined that bills supported by a single co-sponsor passed 10% of the time, while bills co-sponsored by an average of 48.5% of the chamber passed 30% of the time (Fowler, 2006a). Obviously, the probability of passing a bill is higher when it is supported by a greater number of deputies. The reason for this trend, according to Koger (2003), may be the reward factor, under the incentive of which deputies often support bills that popular or supported by powerful groups. In addition, earlier studies show that co-sponsorship in the legislative process helps lawmakers achieve their electoral goals (Mayhew, 1974). Bratton and Rose (2011) developed this idea: "Legislators can introduce and endorse policy proposals that help them garner electoral support from relevant constituencies, serve to advance their political career, and allow them to translate their own policy interests into outcomes". Legislative barriers to minority groups, for instance, may also affect the level of co-sponsorshi (Garand & Burke, 2006). However, basically the aforementioned authors focused on aspects of the U.S. legislative system, which is characterized by confrontation between only two main parties - Republicans and Democrats.
+
+There is only one study by Tolmacheva (2021) examining the multi-party Russian parliament. After evaluating the data on co-sponsorship in the State Duma of the 8th convocation, she found the following interesting patterns. Also, some deputies prefer to co-sponsor bills with one set of co-sponsors, while the actual federal laws he "gets" sometimes with a completely different set of of co-sponsors. Tolmacheva claims that such co-sponsorship indicates serious political weight in parliament and the lobbying effectiveness of the legislator. Deputies wishing to co-sponsor promising bills often form coalitions with deputies from the ruling party, since only by taking into account the members of the ruling party in the list of authors, the law can be passed. Moreover, as an active legislator, a parliamentarian is able to co-sponsor with all deputies and senators (deputy from United Russia has 380 co-sponsorships). However, Tolmacheva does not use correlation indicators or network science metrics, as well as visualiztion, with which to statistically evaluate the above findings.
+
+Thus, our study will be the first work examining the current 8th convocation of the State Duma of Russia, using SNA techniques.
 
 ## Data and methodology
 
