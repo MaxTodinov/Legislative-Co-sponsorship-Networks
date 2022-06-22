@@ -22,8 +22,7 @@ In this study we attempt to explore a complex system of co-sponsorship relations
 3. [Data and methodology](#data-and-methodology)
 4. [Results](#results)
 5. [Conclusion](#conclusion) 
-6. [Limitations](##limitations)
-5. [Implications](##implications)    
+   
 <a name="headers"/>
 
 ## 1. Introduction
