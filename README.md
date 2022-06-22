@@ -17,7 +17,7 @@ In this study we attempt to explore a complex system of co-sponsorship relations
 
 ## Table of contents
 
-1. [Introduction](#1. introduction)  
+1. [Introduction](#1.introduction)  
 2. [Literature review](#literature-review)
 3. [Data and methodology](#data-and-methodology)
 4. [Results](#results)
