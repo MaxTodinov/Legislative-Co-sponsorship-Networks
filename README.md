@@ -102,25 +102,15 @@ In order to answer the questions, our methodology relies on the following framew
 
 ## Results
 
-Python libraries we used during our study
 
-```python
-
-from pyvis.network import Network
-import pandas as pd
-import csv
-import numpy as np
-import networkx as nx
-import matplotlib.pyplot as plt
-from random import randint
 Worth to notice that before proceeding directly to graph analysis, we merged our two datasets into a distance matrix. Numbers display a number of laws that were created by those legislators together (Figure 6).
-```
 
 #### Figure 6. Distance matrix of deputies.
 
 ![distance](Image/dist.jpg)
 
-Then we built our network
+Now let's see what kind of graph we constructed with `networkx` and `pyvis` libraries.
+
 
 
 ## Conclusion
