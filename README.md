@@ -196,3 +196,6 @@ This work is licensed under a
 .
 </p>
 </div>
+
+[project title]
+Copyright (C) [yyyy-yyyy] [owner]
