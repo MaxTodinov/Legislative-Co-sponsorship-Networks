@@ -17,7 +17,7 @@ In this study we attempt to explore a complex system of co-sponsorship relations
 5. [Conclusion](#conclusion)    
 <a name="headers"/>
 
-## Introduction
+## 1. Introduction
 
 ### Problem statement
 
@@ -52,7 +52,7 @@ The study is organized as follows.
   [Part 4](#results) contains the results obtained. 
   [Part 5](#conclusion) draws the final conclusion, suggests further research application, assumes study’s value for practical purposes.
 
-## Literature review
+## 2. Literature review
 
 Considering the network of the most cited scholars on the topic from Scopus we can see that James Fowler is cited more commonly (Figure 2). Plus, the US authors are the undisputed leaders in the field of legislative co-sponsorhip research.
 
@@ -70,7 +70,7 @@ There is only one study by Tolmacheva (2021) examining the multi-party Russian p
 
 Thus, our study will be the first work examining the current 8th convocation of the State Duma of Russia, using SNA techniques.
 
-## Methodology and data collecting
+## 3. Methodology and data collecting
 
 ### Data collecting
 
@@ -100,7 +100,7 @@ In order to answer the questions, our methodology relies on the following framew
 
 🔍 Secondly, we try investigate whether there are any underlying ties between deputies using as much open-source information from the Internet as possible. 
 
-## Results
+## 4. Results
 
 
 Worth to notice that before proceeding directly to graph analysis, we merged our two datasets into a distance matrix. Numbers display a number of laws that were created by those legislators together (Figure 6).
@@ -111,6 +111,26 @@ Worth to notice that before proceeding directly to graph analysis, we merged our
 
 Now let's see what kind of graph we constructed with `networkx` and `pyvis` libraries.
 
+![network](Image/network.jpg)
 
+Although this is a primary image, we can clearly see clusters. Basic characteristics of graph are presented in Table 1.
 
-## Conclusion
+#### Table 1. Network characteristics.
+
+| Characteristic  | Value |
+| --------------- | ----- |
+| Nodes           | 109   |
+| Edges           | 492   |
+| Density         | 0.084 |
+| Avg. degree     | 9.027 |
+
+As it can be seen from the table, on average, each deputy has legislative ties with 9 others.
+
+For clustering we used well-known Gephi software, which on the one hand gives a wide range of possibilities to manipulate the graph and on the other hand saves time. We identify two main attributes by which deputies are divided into clusters. 
+1) The first, as can be seen in Figure 1, is the general committee, in which MPs deal with legislation for a specific sector.
+
+#### Figure 7. State Duma clusters of deputies.
+
+![clusters](Image/Clusters.jpg)
+
+## 5. Conclusion
