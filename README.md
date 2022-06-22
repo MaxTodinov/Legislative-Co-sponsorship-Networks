@@ -25,7 +25,7 @@ In this study we attempt to explore a complex system of co-sponsorship relations
 
 Nowadays, political processes are of growing interest as a research area to network scholars. Prior studies validate that the social ties between various political actors (eg., individual deputies or parties) affect significantly on both policy initiatives and legislation (Zuckerman, 2005). Frequently, members of different political parties can cooperate on the basis of close interests and form network of coalitions that result, for instance, in legislative co-sponsorship. This thesis can be supported by the data of Wilson and Young (1997), emphasizing that 58.2% of bills introduced in the U.S. Congress (bicameral parliament) by lawmakers were co-sponsored. Thus, for well-established legislative institutions, co-authorship is a normal practice. However, what is the situation in relatively young legislatures?
 
-In this study we focused on examining networks of legislative co-sponsorship in the State Duma,  the lower house of the Federal Assembly of Russia, the 1st convocation of which began on December 1993. Currently, the convocation of the Duma is formed by five parties, which is the first time since 1999 (Figure 1). The State Duma consists of 450 seats. As a result of the past election 2021 half of all deputies (225) were elected under single-mandate constituencies, while the other half under party lists.  As a rule, deputies prefer to co-sponsor bills, thus establishing parliamentary coalitions in order to jointly initiate consideration of the bill in the State Duma. Tolmacheva (2021) confirms that point, revealing a high level of legislative co-authorship both among one-party members and among members of different factions.
+In this study we focused on examining networks of legislative co-sponsorship in the State Duma,  the lower house of the Federal Assembly of Russia, the 1st convocation of which began on December 1993. Currently, the convocation of the Duma is formed by five parties, which is the first time since 1999 (Figure 1). The State Duma consists of 450 seats. As a result of the past election 2021 half of all deputies (225) were elected under single-mandate constituencies, while the other half under party lists.  As a rule, deputies prefer to co-sponsor bills, thus establishing parliamentary coalitions in order to jointly initiate consideration of the bill in the State Duma. Tolmacheva (2021) confirms that point, revealing a high level of legislative co-spnsorship both among one-party members and among members of different factions.
 
 #### Figure 1. Composition of the VIII convocation of the State Duma.
 
@@ -100,7 +100,7 @@ In order to answer the questions, our methodology relies on the following framew
 
 🌐 Firstly, we build and visualize a graph network, taking deputies as nodes, and jointly developed laws as edges. Based on the results, it will be possible to determine the overall degree of legislative co-sponsorship in the State Duma, identify the most authoritative deputies and analyze existing clusters.
 
-🔍 Secondly, we try investigate whether there are any underlying ties between deputies using as much open-source information from the Internet as possible. 
+🤖 Secondly, we try to implement Node2vec algoritm in order to conduct the link prediction procedure. 
 
 ## 4. Results
 
@@ -136,22 +136,21 @@ For clustering we used well-known Gephi software, which on the one hand gives a 
 
 ![clusters](Image/commities.jpg)
 
+It is worth stressing that most such committees represent the interests of different financial-industrial groups, industries or line ministries. In this case, we can speak of political lobbyism, a widespread phenomenon in the USA for example.
+
 2) The second attribute is party affiliation. This is clearly seen in Figure 8.
 
 #### Figure 8. State Duma party clusters.
 
 ![clusters](Image/party.jpg)
 
-The graph above reveals that A Just Russia deputies are the most active in terms of legislative co-sponsorship. Indeed, deputies such as Alexander Terentyev and Oleg Nilov are quite experienced legislators, having served in IV and III convocations, respectively. Moreover, many deputies such as Sergei Mironov, Boris Ivanyuzhenkov, Yana Lantratova, Valery Gartung and Yaroslav Nilov are chairmen and deputy chairmen of both specialist committees and Duma factions. In this case, we assume that other deputies seek support in lawmaking from their higher-ranking colleagues.
+The graph above shows that A Just Russia deputies are the most active in terms of legislative co-sponsorship. Indeed, deputies such as Alexander Terentyev and Oleg Nilov are quite experienced legislators, having served in IV and III convocations, respectively. Moreover, many deputies such as Sergei Mironov, Boris Ivanyuzhenkov, Yana Lantratova, Valery Gartung and Yaroslav Nilov are chairmen and deputy chairmen of both specialist committees and Duma factions. In this case, we assume that other deputies seek support in lawmaking from their higher-ranking colleagues.
 
-**Overall, the main characteristics by which deputies of the State Duma are grouped together are common membership of committees and party affiliation.**
+**Overall, the main characteristics by which deputies of the State Duma are grouped together are common membership of committees and party affiliation. Plus, the most respected legislators hold high positions in sectoral committees and party structures.**
 
----------------------------------------------------------------
-### Investigation of hidden connections between deputies
-
-It has been proven that there are obvious formal links between legislators in the Duma. 
 ## 5. Conclusion
 
+In this study, we applied social media analysis techniques to assess the state of legislative co-sponsorship in the VIII Convocation of the State Duma. We reveal that despite its complex structure, the State Duma has a clear division into clusters, the main ones being the relevant committees and factions. In addition, the most experienced lawmakers are highly popular co-sponsors of legislation. 
 
 ### Limitations
 
