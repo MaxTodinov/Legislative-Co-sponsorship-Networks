@@ -127,10 +127,16 @@ Although this is a primary image, we can clearly see clusters. Basic characteris
 As it can be seen from the table, on average, each deputy has legislative ties with 9 others.
 
 For clustering we used well-known Gephi software, which on the one hand gives a wide range of possibilities to manipulate the graph and on the other hand saves time. We identify two main attributes by which deputies are divided into clusters. 
-1) The first, as can be seen in Figure 1, is the general committee, in which MPs deal with legislation for a specific sector.
+1) The first, as can be seen in Figure 7, is the general committee, in which deputies deal with legislation for a specific sector.
 
-#### Figure 7. State Duma clusters of deputies.
+#### Figure 7. State Duma committee clusters.
 
 ![clusters](Image/clusterz.jpg)
+
+2) The second attribute is party affiliation. This is clearly seen in Figure 8.
+
+#### Figure 8. State Duma party clusters.
+
+![clusters](Image/party.jpg)
 
 ## 5. Conclusion
