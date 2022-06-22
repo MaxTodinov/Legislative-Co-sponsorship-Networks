@@ -25,7 +25,7 @@ Nowadays, political processes are of growing interest as a research area to netw
 
 In this study we focused on examining networks of legislative co-sponsorship in the State Duma,  the lower house of the Federal Assembly of Russia, the 1st convocation of which began on December 1993. Currently, the 8th convocation of the Duma is formed by five parties, which is the first time since 1999 (Figure 1). The State Duma consists of 450 seats. As a result of the past election 2021 half of all deputies (225) were elected under single-mandate constituencies, while the other half under party lists.  As a rule, deputies prefer to co-sponsor bills, thus establishing parliamentary coalitions in order to jointly initiate consideration of the bill in the State Duma. Tolmacheva (2021) confirms that point, revealing a high level of legislative co-authorship both among one-party members and among members of different factions.
 
-#### Figure 2. Composition of the 8th convocation of the State Duma.
+#### Figure 1. Composition of the 8th convocation of the State Duma.
 
 ![factions](Image/Factions.jpg)
 
@@ -46,13 +46,11 @@ To cover these research questions, the study utilizes qualitative and quantitati
 
 ### Structure
 
-The study is divided into four parts. 
-  [Part 1](#introduction) introduces the problem of legislative co-sponsorship, provides the author’s motivation and states research questions. 
+The study is organized as follows. 
   [Part 2](#literature-review) represents the literature review, which is based on discussing of previous studies on the topic and identifying of gaps. 
   [Part 3](#data-and-methodology) describes the data collection process and research methodology. 
   [Part 4](#results) contains the results obtained. 
   [Part 5](#conclusion) draws the final conclusion, suggests further research application, assumes study’s value for practical purposes.
-
 
 ## Literature review
 
@@ -72,7 +70,20 @@ There is only one study by Tolmacheva (2021) examining the multi-party Russian p
 
 Thus, our study will be the first work examining the current 8th convocation of the State Duma of Russia, using SNA techniques.
 
-## Data and methodology
+## Methodology
+
+## Data collecting
+
+In order to collect data on legislators, we turn to the official [page](http://duma.gov.ru/duma/deputies/8/) of the State Duma, which contains all the information we need. We aim to scrap not only the name and party of the deputy, but also the committee to which he/she belongs (see Figure 3).
+
+#### Figure 3. Deputy's profile on the Duma website.
+
+![profile](Image/profile.jpg)
+
+As a result, we have gathered all 450 deputies [using](main/websrap.ipynb) simple html parser based on BeautifulSoup4 library (Figure 4).
+
+![legislators](Image/legis.jpg)
+
 
 ## Results
 
