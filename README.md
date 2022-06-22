@@ -14,7 +14,9 @@ In this study we attempt to explore a complex system of co-sponsorship relations
 2. [Literature review](#literature-review)
 3. [Data and methodology](#data-and-methodology)
 4. [Results](#results)
-5. [Conclusion](#conclusion)    
+5. [Conclusion](#conclusion) 
+6. [Limitations](##limitations)
+5. [Implications](##implications)    
 <a name="headers"/>
 
 ## 1. Introduction
@@ -147,3 +149,18 @@ Thus, the main characteristics by which deputies of the State Duma are grouped t
 
 It has been proven that there are obvious formal links between legislators in the Duma. 
 ## 5. Conclusion
+
+## 6. Limitations
+
+
+In this research we only focused on deputies, but there are other legal entities that could also be legislators, such as court, government, senators etc. Such entities might also have influence on the network.
+We didn’t take region and other characteristics of deputies in consideration, so we might have missed a few cofounders. 
+We also chose only those characteristics that could be found on the official Duma website. Of course, some of the deputy's affilations might be informal and therefore not stated at the Duma website, for example, such connections as former business partnership is comletely missed in this research.
+List of deputies might change over time due to death, like in case of Vladimir Zhirinovsky. 
+Another limitations is that VIII convocation is far from being over, so found coalitions will change over time and do not represent. 
+
+
+## 7. Implications
+
+This research can serve as starting point for a more detailed research. Certainly, an expert interview could help to identify a lot of the cofounders and missed connections. An interview with the participants could reveal a lot about the dynamics and insides of the Duma life.
+Further research could also focus on the dynamics of these clusters as more deputies joining the policymaking process.
