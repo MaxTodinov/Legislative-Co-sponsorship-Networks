@@ -70,7 +70,7 @@ There is only one study by Tolmacheva (2021) examining the multi-party Russian p
 
 Thus, our study will be the first work examining the current 8th convocation of the State Duma of Russia, using SNA techniques.
 
-## Methodology
+## Methodology and data collecting
 
 ### Data collecting
 
@@ -80,12 +80,32 @@ In order to collect data on legislators, we turn to the official [page](http://d
 
 ![profile](Image/profile.jpg)
 
-As a result, we have gathered all 450 deputies [using](main/websrap.ipynb) simple html parser based on BeautifulSoup4 library (Figure 4).
+As a result, we have gathered all 450 deputies [using](websrap.ipynb) simple html parser based on BeautifulSoup4 library (Figure 4).
 
 #### Figure 4. State Duma deputies final dataset.
 
 ![legislators](Image/legis.jpg)
 
+To obtain the laws we used [Legislative support system](https://sozd.duma.gov.ru/oz#data_source_tab_b) of the Duma. All archived laws (so they are either approved and published or declined) for the current convocation where СПЗИ (legislation initiator) has at least one deputy (Figure 5).
+
+#### Figure 5. Laws in the archive of 8th convocation.
+
+![legislators](Image/laws8th.jpg)
+
+### Methodology
+
+In order to answer the questions, our methodology relies on the following framework:
+
+🌐 Firstly, we build and visualize a graph network, taking deputies as nodes, and jointly developed laws as edges. Based on the results, it will be possible to determine the overall degree of legislative co-sponsorship in the State Duma, identify the most authoritative deputies and analyze existing clusters.
+
+🔍 Secondly, we try investigate whether there are any underlying ties between deputies using as much open-source information from the Internet as possible. 
+
 ## Results
+
+Worth to notice that before proceeding directly to graph analysis, we merged our two datasets into a distance matrix. Numbers display a number of laws that were created by those legislators together (Figure 6).
+
+#### Figure 6. Distance matrix of deputies.
+
+![distance](Image/dist.jpg)
 
 ## Conclusion
