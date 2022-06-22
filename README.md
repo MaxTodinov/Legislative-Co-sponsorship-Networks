@@ -102,6 +102,7 @@ In order to answer the questions, our methodology relies on the following framew
 
 ## 4. Results
 
+### Social Network Analysis of the State Duma using graphs
 
 Worth to notice that before proceeding directly to graph analysis, we merged our two datasets into a distance matrix. Numbers display a number of laws that were created by those legislators together (Figure 6).
 
@@ -131,7 +132,7 @@ For clustering we used well-known Gephi software, which on the one hand gives a 
 
 #### Figure 7. State Duma committee clusters.
 
-![clusters](Image/clusterz.jpg)
+![clusters](Image/commities.jpg)
 
 2) The second attribute is party affiliation. This is clearly seen in Figure 8.
 
@@ -139,4 +140,9 @@ For clustering we used well-known Gephi software, which on the one hand gives a 
 
 ![clusters](Image/party.jpg)
 
+Thus, the main characteristics by which deputies of the State Duma are grouped together are common membership of committees and party affiliation.
+
+### Investigation of hidden connections between deputies
+
+It has been proven that there are obvious formal links between legislators in the Duma. 
 ## 5. Conclusion
