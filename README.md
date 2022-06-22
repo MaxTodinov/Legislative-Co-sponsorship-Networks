@@ -25,9 +25,9 @@ In this study we attempt to explore a complex system of co-sponsorship relations
 
 Nowadays, political processes are of growing interest as a research area to network scholars. Prior studies validate that the social ties between various political actors (eg., individual deputies or parties) affect significantly on both policy initiatives and legislation (Zuckerman, 2005). Frequently, members of different political parties can cooperate on the basis of close interests and form network of coalitions that result, for instance, in legislative co-sponsorship. This thesis can be supported by the data of Wilson and Young (1997), emphasizing that 58.2% of bills introduced in the U.S. Congress (bicameral parliament) by lawmakers were co-sponsored. Thus, for well-established legislative institutions, co-authorship is a normal practice. However, what is the situation in relatively young legislatures?
 
-In this study we focused on examining networks of legislative co-sponsorship in the State Duma,  the lower house of the Federal Assembly of Russia, the 1st convocation of which began on December 1993. Currently, the 8th convocation of the Duma is formed by five parties, which is the first time since 1999 (Figure 1). The State Duma consists of 450 seats. As a result of the past election 2021 half of all deputies (225) were elected under single-mandate constituencies, while the other half under party lists.  As a rule, deputies prefer to co-sponsor bills, thus establishing parliamentary coalitions in order to jointly initiate consideration of the bill in the State Duma. Tolmacheva (2021) confirms that point, revealing a high level of legislative co-authorship both among one-party members and among members of different factions.
+In this study we focused on examining networks of legislative co-sponsorship in the State Duma,  the lower house of the Federal Assembly of Russia, the 1st convocation of which began on December 1993. Currently, the convocation of the Duma is formed by five parties, which is the first time since 1999 (Figure 1). The State Duma consists of 450 seats. As a result of the past election 2021 half of all deputies (225) were elected under single-mandate constituencies, while the other half under party lists.  As a rule, deputies prefer to co-sponsor bills, thus establishing parliamentary coalitions in order to jointly initiate consideration of the bill in the State Duma. Tolmacheva (2021) confirms that point, revealing a high level of legislative co-authorship both among one-party members and among members of different factions.
 
-#### Figure 1. Composition of the 8th convocation of the State Duma.
+#### Figure 1. Composition of the VIII convocation of the State Duma.
 
 ![factions](Image/Factions.jpg)
 
@@ -142,6 +142,8 @@ For clustering we used well-known Gephi software, which on the one hand gives a 
 
 ![clusters](Image/party.jpg)
 
+The graph above reveals that A Just Russia deputies are the most active in terms of legislative co-sponsorship. Indeed, deputies such as Alexander Terentyev and Oleg Nilov are quite experienced legislators, having served in IV and III convocations, respectively.
+
 Thus, the main characteristics by which deputies of the State Duma are grouped together are common membership of committees and party affiliation.
 
 ---------------------------------------------------------------
@@ -150,8 +152,8 @@ Thus, the main characteristics by which deputies of the State Duma are grouped t
 It has been proven that there are obvious formal links between legislators in the Duma. 
 ## 5. Conclusion
 
-## 6. Limitations
 
+### Limitations
 
 In this research we only focused on deputies, but there are other legal entities that could also be legislators, such as court, government, senators etc. Such entities might also have influence on the network.
 We didn’t take region and other characteristics of deputies in consideration, so we might have missed a few cofounders. 
@@ -160,7 +162,7 @@ List of deputies might change over time due to death, like in case of Vladimir Z
 Another limitations is that VIII convocation is far from being over, so found coalitions will change over time and do not represent. 
 
 
-## 7. Implications
+### Implications
 
-This research can serve as starting point for a more detailed research. Certainly, an expert interview could help to identify a lot of the cofounders and missed connections. An interview with the participants could reveal a lot about the dynamics and insides of the Duma life.
+This research can serve as starting point for a more detailed study. Certainly, an expert interview could help to identify a lot of the co-founders and missed connections. An interview with the participants could reveal a lot about the dynamics and insides of the Duma life.
 Further research could also focus on the dynamics of these clusters as more deputies joining the policymaking process.
