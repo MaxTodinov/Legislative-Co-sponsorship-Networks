@@ -86,7 +86,7 @@ As a result, we have gathered all 450 deputies [using](main/websrap.ipynb) simpl
 
 ![legislators](Image/legis.jpg)
 
-[<img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fcale82350fe8e3517d3494d/topics/python/python.png"/_>][github]
+<a href="/"><img class="python-logo" src="/static/img/python-logo@2x.png" alt="python™" width="290" height="82"></a>
 
 ## Results
 
