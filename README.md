@@ -72,7 +72,7 @@ Thus, our study will be the first work examining the current 8th convocation of 
 
 ## Methodology
 
-## Data collecting
+### Data collecting
 
 In order to collect data on legislators, we turn to the official [page](http://duma.gov.ru/duma/deputies/8/) of the State Duma, which contains all the information we need. We aim to scrap not only the name and party of the deputy, but also the committee to which he/she belongs (see Figure 3).
 
@@ -82,8 +82,11 @@ In order to collect data on legislators, we turn to the official [page](http://d
 
 As a result, we have gathered all 450 deputies [using](main/websrap.ipynb) simple html parser based on BeautifulSoup4 library (Figure 4).
 
+#### Figure 4. State Duma deputies final dataset.
+
 ![legislators](Image/legis.jpg)
 
+![se](https://www.svgimages.com/svg-image/s7/gephi-icon.svg)
 
 ## Results
 
