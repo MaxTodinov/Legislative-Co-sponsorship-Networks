@@ -185,13 +185,7 @@ This research can serve as starting point for a more detailed study. Certainly, 
 Further research could also focus on the dynamics of these clusters as more deputies joining the policymaking process.
 
 ----------------------------------------
+**CO-SPONSORSHIP NETWORKS IN THE LEGISLATIVE PROCESS: ANALYSIS OF THE RUSSIAN STATE DUMA**
 <div class="item copyright">
-<p>Copyright (c) 2016 Test Journal 1</p>
-<p>
-This work is licensed under a
-
-</p>
+<p>Copyright (c) 2022 Maksim Todinov, Denis Pavlenko</p>
 </div>
-
-[project title]
-Copyright (C) [yyyy-yyyy] [owner]
