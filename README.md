@@ -183,3 +183,5 @@ Another limitations is that VIII convocation is far from being over, so found co
 
 This research can serve as starting point for a more detailed study. Certainly, an expert interview could help to identify a lot of the co-founders and missed connections. An interview with the participants could reveal a lot about the dynamics and insides of the Duma life.
 Further research could also focus on the dynamics of these clusters as more deputies joining the policymaking process.
+
+----------------------------------------
