@@ -17,15 +17,15 @@ In this study we attempt to explore a complex system of co-sponsorship relations
 
 ## Table of contents
 
-1. [Introduction](#1.introduction)  
+1. [Introduction](#introduction)  
 2. [Literature review](#literature-review)
-3. [Data and methodology](#data-and-methodology)
+3. [Methodology and data collecting](#methodology-and-data-collecting)
 4. [Results](#results)
 5. [Conclusion](#conclusion) 
    
 <a name="headers"/>
 
-## 1. Introduction
+## Introduction
 
 ### Problem statement
 
@@ -60,7 +60,7 @@ The study is organized as follows.
   [Part 4](#results) contains the results obtained. 
   [Part 5](#conclusion) draws the final conclusion, suggests further research application, assumes study’s value for practical purposes.
 
-## 2. Literature review
+## Literature review
 
 Considering the network of the most cited scholars on the topic from Scopus we can see that James Fowler is cited more commonly (Figure 2). Plus, the US authors are the undisputed leaders in the field of legislative co-sponsorhip research.
 
@@ -78,7 +78,7 @@ There is only one study by Tolmacheva (2021) examining the multi-party Russian p
 
 Thus, our study will be the first work examining the current 8th convocation of the State Duma of Russia, using SNA techniques.
 
-## 3. Methodology and data collecting
+## Methodology and data collecting
 
 ### Data collecting
 
@@ -108,7 +108,7 @@ In order to answer the questions, our methodology relies on the following framew
 
 🤖 Secondly, we try to implement Node2vec algoritm in order to conduct the link prediction procedure. 
 
-## 4. Results
+## Results
 
 ### Social Network Analysis of the State Duma using graphs
 
@@ -172,7 +172,7 @@ Values of ROC score confirm the high performance of the model at all classificat
 ![roc](Image/roc.jpg)
 
 
-## 5. Conclusion
+## Conclusion
 
 In this study, we applied social media analysis techniques to assess the state of legislative co-sponsorship in the VIII Convocation of the State Duma. We reveal that despite its complex structure, the State Duma has a clear division into clusters, the main ones being the relevant committees and factions. In addition, the most experienced lawmakers are highly popular co-sponsors of legislation. 
 
