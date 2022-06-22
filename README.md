@@ -2,10 +2,9 @@
 
 # CO-SPONSORSHIP NETWORKS IN THE LEGISLATIVE PROCESS: ANALYSIS OF THE RUSSIAN STATE DUMA
 
-------------------------------------
-
 [![hse](https://img.shields.io/badge/HSE-University-blue)](https://spb.hse.ru/en/)
 
+<img src="Image/icons8-python.svg" alt="mypy logo" width="30px"/>
 ## Authors
 
 * [Denis Pavlenko](https://github.com/mushrmruler)
