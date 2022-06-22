@@ -142,9 +142,9 @@ For clustering we used well-known Gephi software, which on the one hand gives a 
 
 ![clusters](Image/party.jpg)
 
-The graph above reveals that A Just Russia deputies are the most active in terms of legislative co-sponsorship. Indeed, deputies such as Alexander Terentyev and Oleg Nilov are quite experienced legislators, having served in IV and III convocations, respectively.
+The graph above reveals that A Just Russia deputies are the most active in terms of legislative co-sponsorship. Indeed, deputies such as Alexander Terentyev and Oleg Nilov are quite experienced legislators, having served in IV and III convocations, respectively. Moreover, many deputies such as Sergei Mironov, Boris Ivanyuzhenkov, Yana Lantratova, Valery Gartung and Yaroslav Nilov are chairmen and deputy chairmen of both specialist committees and Duma factions. In this case, we assume that other deputies seek support in lawmaking from their higher-ranking colleagues.
 
-Thus, the main characteristics by which deputies of the State Duma are grouped together are common membership of committees and party affiliation.
+*Overall, the main characteristics by which deputies of the State Duma are grouped together are common membership of committees and party affiliation.*
 
 ---------------------------------------------------------------
 ### Investigation of hidden connections between deputies
