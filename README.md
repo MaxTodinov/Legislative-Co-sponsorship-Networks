@@ -136,7 +136,7 @@ For clustering we used well-known Gephi software, which on the one hand gives a 
 
 ![clusters](Image/commities.jpg)
 
-It is worth stressing that most such committees represent the interests of different financial-industrial groups, industries or line ministries. In this case, we can speak of political lobbyism, a widespread phenomenon in the USA for example.
+It is worth stressing that most such committees represent the interests of different financial-industrial groups, industries or line ministries. In this case, we can speak of political lobbyism, a widespread phenomenon in the US for example.
 
 2) The second attribute is party affiliation. This is clearly seen in Figure 8.
 
