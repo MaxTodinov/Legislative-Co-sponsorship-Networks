@@ -158,8 +158,13 @@ node2vec Validation ROC score:  0.9941690962099126
 node2vec Validation AP score:  0.9944113903313314
 node2vec Test ROC score:  0.9828312277291869
 node2vec Test AP score:  0.9844706064110786
-
 ```
+Values of ROC score confirm the high performance of the model at all classification thresholds. ROC curve is depicted in Figure 9.
+
+#### Figure 9. ROC curve.
+
+![roc](Image/roc.jpg)
+
 
 ## 5. Conclusion
 
