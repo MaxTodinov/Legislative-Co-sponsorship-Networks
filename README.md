@@ -129,7 +129,8 @@ Although this is a primary image, we can clearly see clusters. Basic characteris
 
 As it can be seen from the table, on average, each deputy has legislative ties with 9 others.
 
-For clustering we used well-known Gephi software, which on the one hand gives a wide range of possibilities to manipulate the graph and on the other hand saves time. We identify two main attributes by which deputies are divided into clusters. 
+For clustering we used well-known Gephi software, which on the one hand gives a wide range of possibilities to manipulate the graph and on the other hand saves time. We identify two main attributes by which deputies are divided into clusters:
+
 1) The first, as can be seen in Figure 7, is the general committee, in which deputies deal with legislation for a specific sector.
 
 #### Figure 7. State Duma committee clusters.
@@ -147,6 +148,18 @@ It is worth stressing that most such committees represent the interests of diffe
 The graph above shows that A Just Russia deputies are the most active in terms of legislative co-sponsorship. Indeed, deputies such as Alexander Terentyev and Oleg Nilov are quite experienced legislators, having served in IV and III convocations, respectively. Moreover, many deputies such as Sergei Mironov, Boris Ivanyuzhenkov, Yana Lantratova, Valery Gartung and Yaroslav Nilov are chairmen and deputy chairmen of both specialist committees and Duma factions. In this case, we assume that other deputies seek support in lawmaking from their higher-ranking colleagues.
 
 **Overall, the main characteristics by which deputies of the State Duma are grouped together are common membership of committees and party affiliation. Plus, the most respected legislators hold high positions in sectoral committees and party structures.**
+
+### Link prediction with Node2vec
+
+The results we obtain are presented below.
+
+```
+node2vec Validation ROC score:  0.9941690962099126
+node2vec Validation AP score:  0.9944113903313314
+node2vec Test ROC score:  0.9828312277291869
+node2vec Test AP score:  0.9844706064110786
+
+```
 
 ## 5. Conclusion
 
