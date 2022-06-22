@@ -185,3 +185,14 @@ This research can serve as starting point for a more detailed study. Certainly, 
 Further research could also focus on the dynamics of these clusters as more deputies joining the policymaking process.
 
 ----------------------------------------
+<div class="item copyright">
+<p>Copyright (c) 2016 Test Journal 1</p>
+<a href="http://creativecommons.org/licenses/by/4.0/" rel="license">
+<img src="//i.creativecommons.org/l/by/4.0/88x31.png" alt="Creative Commons License">
+</a>
+<p>
+This work is licensed under a
+<a href="http://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International License</a>
+.
+</p>
+</div>
