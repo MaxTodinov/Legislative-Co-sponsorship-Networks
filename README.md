@@ -86,7 +86,7 @@ As a result, we have gathered all 450 deputies [using](main/websrap.ipynb) simpl
 
 ![legislators](Image/legis.jpg)
 
-![se](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1024px-Python-logo-notext.svg.png)
+![se](https://www.svgimages.com/svg-image/s7/gephi-icon.svg =100x100)
 
 ## Results
 
