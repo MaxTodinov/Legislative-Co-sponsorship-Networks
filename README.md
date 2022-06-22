@@ -142,6 +142,7 @@ For clustering we used well-known Gephi software, which on the one hand gives a 
 
 Thus, the main characteristics by which deputies of the State Duma are grouped together are common membership of committees and party affiliation.
 
+---------------------------------------------------------------
 ### Investigation of hidden connections between deputies
 
 It has been proven that there are obvious formal links between legislators in the Duma. 
