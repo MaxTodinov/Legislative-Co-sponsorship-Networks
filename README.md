@@ -4,6 +4,11 @@
 
 [![hse](https://img.shields.io/badge/HSE-University-blue)](https://spb.hse.ru/en/)
 
+## Authors
+
+* [Denis Pavlenko](https://github.com/mushrmruler)
+* [Maksim Todinov](https://github.com/MaxTodinov)
+
 ## Overview
 
 In this study we attempt to explore a complex system of co-sponsorship relationships between deputies of the State Duma of Russian Federation applying social network analysis (SNA).
@@ -185,7 +190,6 @@ This research can serve as starting point for a more detailed study. Certainly, 
 Further research could also focus on the dynamics of these clusters as more deputies joining the policymaking process.
 
 ----------------------------------------
-**CO-SPONSORSHIP NETWORKS IN THE LEGISLATIVE PROCESS: ANALYSIS OF THE RUSSIAN STATE DUMA**
 <div class="item copyright">
 <p>Copyright (c) 2022 Maksim Todinov, Denis Pavlenko</p>
 </div>
