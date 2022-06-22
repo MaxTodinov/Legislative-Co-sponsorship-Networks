@@ -131,6 +131,6 @@ For clustering we used well-known Gephi software, which on the one hand gives a 
 
 #### Figure 7. State Duma clusters of deputies.
 
-![clusters](Image/Clusters.jpg)
+![clusters](Image/clusterz.jpg)
 
 ## 5. Conclusion
