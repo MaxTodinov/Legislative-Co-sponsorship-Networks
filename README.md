@@ -88,7 +88,7 @@ In order to collect data on legislators, we turn to the official [page](http://d
 
 ![profile](Image/profile.jpg)
 
-As a result, we have gathered all 450 deputies [using](websrap.ipynb) simple html parser based on BeautifulSoup4 library (Figure 4).
+As a result, we have gathered all 450 deputies [using](websrap.ipynb) simple html parser based on `BeautifulSoup4` library (Figure 4).
 
 #### Figure 4. State Duma deputies final dataset.
 
