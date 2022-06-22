@@ -4,7 +4,7 @@
 
 [![hse](https://img.shields.io/badge/HSE-University-blue)](https://spb.hse.ru/en/)
 
-<img src="Image/icons8-python.svg" alt="mypy logo" width="30px"/> ![gephi](Image/gephi.jpg)
+<img src="Image/icons8-python.svg" alt="mypy logo" width="30px"/> ![gephi](Image/gephi.png)
 
 ## Authors
 
